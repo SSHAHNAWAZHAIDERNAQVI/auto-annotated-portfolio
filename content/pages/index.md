@@ -193,4 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/c.jpg
 ---

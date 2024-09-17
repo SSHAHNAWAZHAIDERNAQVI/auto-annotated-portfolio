@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  url: /images/contact.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 55
 sections:
   - elementId: ''
     colors: colors-e

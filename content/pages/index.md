@@ -194,4 +194,5 @@ sections:
       text:
         textAlign: left
 socialImage: /images/c.jpg
+addTitleSuffix: true
 ---

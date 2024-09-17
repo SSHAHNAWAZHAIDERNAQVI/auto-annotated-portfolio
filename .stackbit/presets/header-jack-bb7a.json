@@ -1,0 +1,89 @@
+{
+    "model": "Header",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "jack",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "t"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "lisa rose",
+                "isTitleVisible": true,
+                "logo": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/c.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "altText of the image",
+                    "caption": "Caption of the image",
+                    "elementId": ""
+                },
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Info",
+                        "altText": null,
+                        "url": "/info",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Projects",
+                        "altText": null,
+                        "url": "/projects",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Blog",
+                        "altText": null,
+                        "url": "/blog",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    }
+                ],
+                "socialLinks": [
+                    {
+                        "$$type": "Social",
+                        "label": "Twitter",
+                        "altText": "Twitter",
+                        "url": "https://twitter.com/netlify",
+                        "icon": "twitter",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Social",
+                        "label": "GitHub",
+                        "altText": "GitHub",
+                        "url": "https://github.com/netlify-templates",
+                        "icon": "github",
+                        "elementId": null
+                    }
+                ],
+                "headerVariant": "variant-b",
+                "isSticky": true,
+                "styles": {
+                    "self": {
+                        "width": "wide"
+                    }
+                }
+            },
+            "thumbnail": "images/header-jack-bb7a.png"
+        }
+    ]
+}

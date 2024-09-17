@@ -22,7 +22,8 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowLeftCircle"
             }
         ],
         "socialLinks": [

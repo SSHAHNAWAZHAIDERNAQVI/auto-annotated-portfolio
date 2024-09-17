@@ -23,7 +23,7 @@
                 "label": "Blog",
                 "url": "/blog",
                 "showIcon": true,
-                "icon": "arrowRight"
+                "icon": "arrowRightCircle"
             }
         ],
         "socialLinks": [

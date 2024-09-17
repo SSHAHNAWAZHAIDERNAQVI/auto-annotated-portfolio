@@ -18,7 +18,8 @@
                 "label": "Projects",
                 "url": "/projects",
                 "iconPosition": "right",
-                "icon": "arrowRightCircle"
+                "icon": "arrowRightCircle",
+                "showIcon": true
             },
             {
                 "type": "Link",

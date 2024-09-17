@@ -42,7 +42,8 @@
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "icon": "github",
+                "elementId": "github"
             }
         ],
         "styles": {

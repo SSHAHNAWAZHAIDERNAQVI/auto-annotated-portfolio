@@ -3,7 +3,7 @@
     "favicon": "/images/c.jpg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": true,
         "title": "lisa rose",
         "isTitleVisible": true,
